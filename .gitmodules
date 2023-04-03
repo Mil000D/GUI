@@ -1,0 +1,15 @@
+[submodule "Project1GUI"]
+	path = Project1GUI
+	url = git@github.com:MiloDem000n/Project1GUI.git
+[submodule "Project2GUI"]
+	path = Project2GUI
+	url = git@github.com:MiloDem000n/Project2GUI.git
+[submodule "Project3GUI"]
+	path = Project3GUI
+	url = git@github.com:MiloDem000n/Project3GUI.git
+[submodule "Project4GUI"]
+	path = Project4GUI
+	url = git@github.com:MiloDem000n/Project4GUI.git
+[submodule "AdditionalProjectGUI"]
+	path = AdditionalProjectGUI
+	url = git@github.com:MiloDem000n/AdditionalProjectGUI.git
